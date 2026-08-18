@@ -75,7 +75,7 @@ Gemini and OpenRouter · **[turnstileguard.com](https://turnstileguard.com)** ·
 
 ## 🎓 Education
 
-**Y Combinator** — Startup School, 2019
+**Y Combinator** — Startup School, 2019<br />
 **University of São Paulo** — BSc Physics with Scientific Software Programming
 
 <br>
