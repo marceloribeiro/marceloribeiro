@@ -27,13 +27,13 @@ cut unified search from 20+ seconds to ~1 second over hundreds of millions of re
 
 ## 🚦 Turnstile — the session layer for agent traffic
 
-<a href="https://github.com/marceloribeiro/turnstile">
-  <img src="https://img.shields.io/github/v/release/marceloribeiro/turnstile?style=flat-square&color=6366F1&label=release" alt="Release" />
-</a>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/license-MIT-yellow?style=flat-square" alt="MIT" />
+<p>
+  <a href="https://github.com/marceloribeiro/turnstile"> <img src="https://img.shields.io/github/v/release/marceloribeiro/turnstile?style=flat-square&color=6366F1&label=release" alt="Release" /> </a>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/license-MIT-yellow?style=flat-square" alt="MIT" />
+</p>
 
 A transparent streaming proxy between your app and any LLM provider. It meters every agent
 session in real time and **trips a circuit breaker the instant one session goes rogue** — a
@@ -52,14 +52,16 @@ Gemini and OpenRouter · **[turnstileguard.com](https://turnstileguard.com)** ·
 
 **AI / LLM**
 
-<img src="https://img.shields.io/badge/Agentic_Systems-6366F1?style=for-the-badge" alt="Agentic Systems" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
-<img src="https://img.shields.io/badge/MCP-D97757?style=for-the-badge" alt="Model Context Protocol" />
-<img src="https://img.shields.io/badge/RAG_%2F_Vector_DBs-0EA5E9?style=for-the-badge" alt="RAG and vector databases" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
-<img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge" alt="OpenRouter" />
+<p>
+  <img src="https://img.shields.io/badge/Agentic_Systems-6366F1?style=for-the-badge" alt="Agentic Systems" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/MCP-D97757?style=for-the-badge" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/RAG_%2F_Vector_DBs-0EA5E9?style=for-the-badge" alt="RAG and vector databases" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge" alt="OpenRouter" />
+</p>
 
 **Languages & frameworks**
 
@@ -84,7 +86,7 @@ Gemini and OpenRouter · **[turnstileguard.com](https://turnstileguard.com)** ·
 
 ---
 
-## 🎓
+## 🎓 Education
 
 **Y Combinator** — Startup School, 2019
 **University of São Paulo** — BSc Physics with Scientific Software Programming
