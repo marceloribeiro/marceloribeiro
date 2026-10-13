@@ -31,11 +31,14 @@ cut unified search from 20+ seconds to ~1 second over hundreds of millions of re
 ## 🪨 Evalstone — the evals layer for any LLM product
 
 <p>
+  <a href="https://pypi.org/project/evalstone/"> <img src="https://img.shields.io/pypi/v/evalstone?style=flat-square&label=pypi&color=6366F1" alt="PyPI" /> </a>
+  <a href="https://github.com/marceloribeiro/evalstone/actions/workflows/lib.yml"> <img src="https://img.shields.io/github/actions/workflow/status/marceloribeiro/evalstone/lib.yml?style=flat-square&label=lib%20ci&color=6366F1" alt="Library CI" /> </a>
   <a href="https://github.com/marceloribeiro/evalstone/actions/workflows/site.yml"> <img src="https://img.shields.io/github/actions/workflow/status/marceloribeiro/evalstone/site.yml?style=flat-square&label=site%20ci&color=6366F1" alt="Site CI" /> </a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/MCP-D97757?style=flat-square" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/GitHub%20Action-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Action" />
   <img src="https://img.shields.io/badge/license-MIT-yellow?style=flat-square" alt="MIT" />
 </p>
 
@@ -52,7 +55,9 @@ comparison and safety checks, all as plain Python.
 Python library + CLI · pytest plugin · GitHub Action · FastAPI center · Next.js app · MCP server ·
 **[evalstone.com](https://evalstone.com)** · **[repo →](https://github.com/marceloribeiro/evalstone)**
 
-*Building in the open — site and learning center first, library next.*
+*Building in the open — the library, CLI, pytest plugin, MCP server and GitHub Action are on
+[PyPI](https://pypi.org/project/evalstone/) (`pip install evalstone`, `marceloribeiro/evalstone/action@action-v0`);
+the site and [Evals 101](https://evalstone.com/docs/learn) are live; the center API is next.*
 
 ---
 
