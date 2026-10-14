@@ -52,12 +52,15 @@ comparison and safety checks, all as plain Python.
 > labeling and judge calibration, production monitors, and an MCP server so Claude Code or
 > Cursor can run your suites. The library computes; the center stores.
 
+<img src="assets/evalstone-walkthrough.gif" alt="Evalstone in one minute: init, a CI gate that catches a regression, then labeling, calibrating and promoting an LLM judge in the center" width="100%" />
+
 Python library + CLI · pytest plugin · GitHub Action · FastAPI center · Next.js app · MCP server ·
 **[evalstone.com](https://evalstone.com)** · **[repo →](https://github.com/marceloribeiro/evalstone)**
 
-*Building in the open — the library, CLI, pytest plugin, MCP server and GitHub Action are on
+*Live: the library, CLI, pytest plugin, MCP server and GitHub Action on
 [PyPI](https://pypi.org/project/evalstone/) (`pip install evalstone`, `marceloribeiro/evalstone/action@action-v0`);
-the site and [Evals 101](https://evalstone.com/docs/learn) are live; the center API is next.*
+the center at [app.evalstone.com](https://app.evalstone.com) (or self-hosted with `docker compose`), where LLM
+judges are calibrated against human labels before they are trusted; and [Evals 101](https://evalstone.com/docs/learn).*
 
 ---
 
