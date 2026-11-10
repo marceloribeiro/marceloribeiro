@@ -1,12 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=190&section=header&text=Marcelo%20Sousa%20Ribeiro&fontColor=ffffff&fontSize=40&fontAlignY=34&desc=AI%20Engineer%20%C2%B7%20Forward%20Deployed%20Engineer%20%C2%B7%2015%2B%20years%20full-stack&descSize=17&descAlignY=54" width="100%" alt="Marcelo Sousa Ribeiro — AI Engineer, Forward Deployed Engineer, 15+ years full-stack" />
 
 <p align="center">
-  <a href="https://www.themarceloribeiro.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=700&lines=I+build+agentic+systems+%E2%80%94+and+the+infra+that+keeps+them+reliable.;LLM+orchestration+%C2%B7+tool-calling+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+evals;I+ship+LLM+agents+into+real+business+stacks.;Scaled+platforms+to+millions+of+users." alt="I build agentic systems and the infrastructure that keeps them reliable" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=700&lines=I+build+agentic+systems+%E2%80%94+and+the+infra+that+keeps+them+reliable.;LLM+orchestration+%C2%B7+tool-calling+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+evals;I+ship+LLM+agents+into+real+business+stacks.;Scaled+platforms+to+millions+of+users." alt="I build agentic systems and the infrastructure that keeps them reliable" />
 </p>
 
 <p align="center">
-  <a href="https://www.themarceloribeiro.com"><img src="https://img.shields.io/badge/Portfolio-themarceloribeiro.com-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/themarceloribeiro/"><img src="https://img.shields.io/badge/LinkedIn-themarceloribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.youtube.com/@vibeworkin"><img src="https://img.shields.io/badge/YouTube-vibeworkin-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="mailto:themarceloribeiro@gmail.com"><img src="https://img.shields.io/badge/Email-themarceloribeiro-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
